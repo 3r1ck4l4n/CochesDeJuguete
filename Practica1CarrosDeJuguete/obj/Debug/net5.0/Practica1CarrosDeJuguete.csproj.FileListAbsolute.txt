@@ -1,0 +1,16 @@
+C:\Users\yeder\OneDrive\Escritorio\.NET\Practica1CarrosDeJuguete\Practica1CarrosDeJuguete\bin\Debug\net5.0\Practica1CarrosDeJuguete.exe
+C:\Users\yeder\OneDrive\Escritorio\.NET\Practica1CarrosDeJuguete\Practica1CarrosDeJuguete\bin\Debug\net5.0\Practica1CarrosDeJuguete.deps.json
+C:\Users\yeder\OneDrive\Escritorio\.NET\Practica1CarrosDeJuguete\Practica1CarrosDeJuguete\bin\Debug\net5.0\Practica1CarrosDeJuguete.runtimeconfig.json
+C:\Users\yeder\OneDrive\Escritorio\.NET\Practica1CarrosDeJuguete\Practica1CarrosDeJuguete\bin\Debug\net5.0\Practica1CarrosDeJuguete.runtimeconfig.dev.json
+C:\Users\yeder\OneDrive\Escritorio\.NET\Practica1CarrosDeJuguete\Practica1CarrosDeJuguete\bin\Debug\net5.0\Practica1CarrosDeJuguete.dll
+C:\Users\yeder\OneDrive\Escritorio\.NET\Practica1CarrosDeJuguete\Practica1CarrosDeJuguete\bin\Debug\net5.0\ref\Practica1CarrosDeJuguete.dll
+C:\Users\yeder\OneDrive\Escritorio\.NET\Practica1CarrosDeJuguete\Practica1CarrosDeJuguete\bin\Debug\net5.0\Practica1CarrosDeJuguete.pdb
+C:\Users\yeder\OneDrive\Escritorio\.NET\Practica1CarrosDeJuguete\Practica1CarrosDeJuguete\obj\Debug\net5.0\Practica1CarrosDeJuguete.csproj.AssemblyReference.cache
+C:\Users\yeder\OneDrive\Escritorio\.NET\Practica1CarrosDeJuguete\Practica1CarrosDeJuguete\obj\Debug\net5.0\Practica1CarrosDeJuguete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeder\OneDrive\Escritorio\.NET\Practica1CarrosDeJuguete\Practica1CarrosDeJuguete\obj\Debug\net5.0\Practica1CarrosDeJuguete.AssemblyInfoInputs.cache
+C:\Users\yeder\OneDrive\Escritorio\.NET\Practica1CarrosDeJuguete\Practica1CarrosDeJuguete\obj\Debug\net5.0\Practica1CarrosDeJuguete.AssemblyInfo.cs
+C:\Users\yeder\OneDrive\Escritorio\.NET\Practica1CarrosDeJuguete\Practica1CarrosDeJuguete\obj\Debug\net5.0\Practica1CarrosDeJuguete.csproj.CoreCompileInputs.cache
+C:\Users\yeder\OneDrive\Escritorio\.NET\Practica1CarrosDeJuguete\Practica1CarrosDeJuguete\obj\Debug\net5.0\Practica1CarrosDeJuguete.dll
+C:\Users\yeder\OneDrive\Escritorio\.NET\Practica1CarrosDeJuguete\Practica1CarrosDeJuguete\obj\Debug\net5.0\ref\Practica1CarrosDeJuguete.dll
+C:\Users\yeder\OneDrive\Escritorio\.NET\Practica1CarrosDeJuguete\Practica1CarrosDeJuguete\obj\Debug\net5.0\Practica1CarrosDeJuguete.pdb
+C:\Users\yeder\OneDrive\Escritorio\.NET\Practica1CarrosDeJuguete\Practica1CarrosDeJuguete\obj\Debug\net5.0\Practica1CarrosDeJuguete.genruntimeconfig.cache
